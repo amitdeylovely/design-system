@@ -1,34 +1,34 @@
 /**
  * Do not edit directly
- * Generated on Wed, 28 Dec 2022 08:12:50 GMT
+ * Generated on Wed, 28 Dec 2022 08:44:03 GMT
  */
 
 :root {
-  --sd-global-ds-siz-xs: 12;
-  --sd-global-ds-siz-sm: 14;
-  --sd-global-ds-siz-default: 16;
-  --sd-global-ds-siz-md: 18;
-  --sd-global-ds-siz-lg: 24;
-  --sd-global-ds-siz-xl: 32;
-  --sd-global-ds-font-xs: 10;
-  --sd-global-ds-font-default: 16;
-  --sd-global-ds-font-sm: 14;
-  --sd-global-ds-font-md: 18;
-  --sd-global-ds-font-lg: 20;
-  --sd-global-ds-font-xl: 22;
-  --sd-global-ds-font-xxl: 24;
-  --sd-global-ds-radius-xs: 4;
-  --sd-global-ds-radius-sm: 6;
-  --sd-global-ds-radius-md: 10;
-  --sd-global-ds-radius-lg: 12;
-  --sd-global-ds-radius-xl: 14;
-  --sd-global-radius-xxl: 18;
-  --sd-global-ds-default-8: 8;
-  --sd-global-ds-border-1: 1;
-  --sd-global-ds-border-2: 2;
-  --sd-global-ds-border-3: 3;
-  --sd-global-ds-border-4: 4;
-  --sd-global-ds-border-5: 5;
+  --sd-global-ds-siz-xs: 12px;
+  --sd-global-ds-siz-sm: 14px;
+  --sd-global-ds-siz-default: 16px;
+  --sd-global-ds-siz-md: 18px;
+  --sd-global-ds-siz-lg: 24px;
+  --sd-global-ds-siz-xl: 32px;
+  --sd-global-ds-font-xs: 10px;
+  --sd-global-ds-font-default: 16px;
+  --sd-global-ds-font-sm: 14px;
+  --sd-global-ds-font-md: 18px;
+  --sd-global-ds-font-lg: 20px;
+  --sd-global-ds-font-xl: 22px;
+  --sd-global-ds-font-xxl: 24px;
+  --sd-global-ds-radius-xs: 4px;
+  --sd-global-ds-radius-sm: 6px;
+  --sd-global-ds-radius-md: 10px;
+  --sd-global-ds-radius-lg: 12px;
+  --sd-global-ds-radius-xl: 14px;
+  --sd-global-radius-xxl: 18px;
+  --sd-global-ds-default: 8px;
+  --sd-global-ds-border-1: 1px;
+  --sd-global-ds-border-2: 2px;
+  --sd-global-ds-border-3: 3px;
+  --sd-global-ds-border-4: 4px;
+  --sd-global-ds-border-5: 5px;
   --sd-global-ds-primary: #3a2ef0;
   --sd-global-ds-white: #fff;
   --sd-global-ds-black: #000;
