@@ -1,0 +1,11 @@
+@import "../../build/css/_variables.css"; /* Using a string */
+
+.ds-primary-btn{
+    background-color: var(--sd-global-ds-primary);
+    border-radius: var(--sd-global-ds-radius-sm);
+    font-size: var(--sd-global-ds-siz-default);
+    color: var(--sd-global-ds-white);
+    text-align: center;
+    border: 0;
+    padding: 15px 25px;
+}
