@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 28 Dec 2022 11:16:52 GMT
+ * Generated on Wed, 28 Dec 2022 11:26:19 GMT
  */
 
 :root {
@@ -23,13 +23,13 @@
   --sd-global-ds-radius-lg: 12px;
   --sd-global-ds-radius-xl: 14px;
   --sd-global-radius-xxl: 18px;
-  --sd-global-ds-default: 20px;
+  --sd-global-ds-default: 10px;
   --sd-global-ds-border-1: 1px;
   --sd-global-ds-border-2: 2px;
   --sd-global-ds-border-3: 3px;
   --sd-global-ds-border-4: 4px;
   --sd-global-ds-border-5: 5px;
-  --sd-global-ds-primary: #6c26bd;
+  --sd-global-ds-primary: #0970f5;
   --sd-global-ds-white: #fff;
   --sd-global-ds-black: #000;
   --sd-global-ds-secondary: #4c4c4c;
