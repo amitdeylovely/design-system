@@ -1,4 +1,4 @@
-@import "../../build/css/_variables.css"; /* Using a string */
+@import "../../build/css/variables.css"; /* Using a string */
 
 .ds-primary-btn{
     background-color: var(--sd-global-ds-primary);
